@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zemivicukevo.pages.dev/sitemap.xml
